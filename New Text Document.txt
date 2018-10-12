@@ -137,3 +137,8 @@ int gdriver = DETECT, gmode, errorcode;  //declarare de variabile locale
       exit(1);
     }
 }
+
+void ambagatofunctietati(void)
+{
+	cout<<"Asta e o functie tati!";
+}
